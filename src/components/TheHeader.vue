@@ -3,17 +3,13 @@
     <div class="main_container">
       <div class="header-content">
         <RouterLink to="/">
-          <img
-            src="/img/icons/logos/mlabs-logo.png"
-            alt="Logo"
-            class="header-logo"
-          />
+          <p>MY APP</p>
         </RouterLink>
         <div class="profile-wrapper">
           <div class="profile-image">
             <img src="/img/fotos/profile.png" alt="Anselmo Carlos" />
           </div>
-          <p class="profile-name">Anselmo Carlos</p>
+          <p class="profile-name">Luís</p>
         </div>
       </div>
     </div>
