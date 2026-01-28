@@ -10,7 +10,7 @@ O objetivo deste projeto é desenvolver uma mini dashboard intuitiva e eficiente
 
 Link para o projeto:
 
-- [mlabs test frontend](https://mlabs-test-frontend.vercel.app/)
+- [mlabs test frontend](https://vue-scheduling-app.vercel.app/)
 
 ## **:wrench: Como configurar o ambiente?**
 
